@@ -1,0 +1,7 @@
+{
+  "camera_host": "",
+  "blink_host": "",
+  "home_assistant_host": "",
+  "home_assistant_port": 8123,
+  "viewer_helper": "~/.local/bin/foxtail-reolink-view"
+}
