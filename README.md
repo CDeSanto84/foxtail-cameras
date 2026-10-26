@@ -2,6 +2,8 @@
 
 # Foxtail Cameras
 
+[![Checks](https://github.com/CDeSanto84/foxtail-cameras/actions/workflows/checks.yml/badge.svg)](https://github.com/CDeSanto84/foxtail-cameras/actions/workflows/checks.yml)
+
 **A desktop cockpit for local cameras and Home Assistant.**
 
 A Python/Tkinter dashboard for checking camera-service reachability and opening
